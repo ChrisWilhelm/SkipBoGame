@@ -1,0 +1,31 @@
+p
+m 0 a
+m 0 a
+m 0 a
+m 0 a
+m 0 a
+m 0 a
+m 0 a
+m 0 a
+m 0 a
+m 0 a
+m 0 a
+m 0 a
+m 5 3
+p
+m 0 b
+m 0 b
+m 0 b
+m 0 b
+m 0 b
+m 0 b
+m 0 b
+m 0 b
+m 0 b
+m 5 b
+m 6 b
+m 7 b
+m 5 4
+s
+save2.txt
+

@@ -1,0 +1,4 @@
+#!/bin/bash
+clear
+./skipbo 'false' '4' '5' 'deck0.txt' < TestInput1.txt
+echo "END OF TEST"

@@ -1,0 +1,21 @@
+p
+m 5 a
+m 5 a
+m 5 b
+d
+m 5 a
+m 5 d
+d
+m a 1
+m 5 1
+p
+d
+m 5 a
+m 5 a
+m 5 a
+m 5 a
+m 5 a
+m 5 a
+d
+m 8 1
+q

@@ -1,0 +1,26 @@
+p
+m 0 a
+m 0 a
+m 0 a
+m 5 b
+m 6 b
+m 9 d
+m 0 a
+m 5 1
+p
+m 0 a
+m 5 c
+m 6 d
+m 8 3
+m 7 3
+p
+m 5 b
+m 6 c
+m 7 d
+m 5 4
+p
+m 2 3
+m 6 3
+p
+m 0 b
+

@@ -1,0 +1,66 @@
+false 4 2
+Player2
+Stock 24
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 9
+5 1 0 0
+Hand 0
+
+Discard0 0
+
+Discard1 0
+
+Discard2 0
+
+Discard3 0
+
+Player3
+Stock 24
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 10
+6 2 0 0
+Hand 0
+
+Discard0 0
+
+Discard1 0
+
+Discard2 0
+
+Discard3 0
+
+Player0
+Stock 21
+0 0 0 0 0 0 0 0 0 0 0 0 0 3 3 3 0 0 11 7
+3
+Hand 4
+0 0 0 0
+Discard0 0
+
+Discard1 0
+
+Discard2 1
+0
+Discard3 0
+
+Player1
+Stock 20
+0 0 0 0 0 0 0 0 0 0 0 3 1 3 11 0 0 0 12 8
+Hand 1
+0
+Discard0 0
+
+Discard1 0
+
+Discard2 0
+
+Discard3 1
+0
+Draw 0
+
+Build_a 3
+0 0 0
+Build_b 7
+0 0 0 4 0 0 0
+Build_c 0
+
+Build_d 0
+

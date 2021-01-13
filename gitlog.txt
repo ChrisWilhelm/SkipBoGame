@@ -1,0 +1,577 @@
+commit 52e8962d289ddc179b9195bed58350dfa4e60bff
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Dec 9 15:37:44 2020 -0500
+
+    Fixed an error where it wouldnt let you play from discard to build
+
+commit d34367510b12e0f7b0fb2418005c27ae1169db3f
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Wed Dec 9 12:29:10 2020 -0500
+
+    Updated README with Ud in class
+
+commit 2b5ab541f1ea7f77680f6ee561ab31dc69bdb3e6
+Merge: ede12c1 1a295e9
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Dec 9 12:11:05 2020 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2020-fall-final-cwilhel8-ddang8-unwosu6
+
+commit ede12c1c75d54b209d279db7cf350b271ad21feb
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Dec 9 12:10:45 2020 -0500
+
+    removed seeding for random player as per piazza
+
+commit 1a295e9acee92f0b217c598a65ab7caa95c8526c
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Wed Dec 9 09:50:20 2020 -0500
+
+    added all names to files
+
+commit c866dcc52d98dd5eff6f4c236c7a6b6c278ddd5e
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Dec 9 09:17:13 2020 -0500
+
+    Added  my name to top of files
+
+commit 6067e6aec1f2285f60474b34eb9b4f7df0ba3acb
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Dec 9 09:12:46 2020 -0500
+
+    Added comments to BuildPile, FaceUpPile, SkipBoGame, Pile, main, Card, and Player
+
+commit aa9d0e2e2901efe018180b04d2c63d15f7cded82
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Tue Dec 8 21:13:02 2020 -0500
+
+    added comments
+
+commit bfa1eabbb6ca651a37c5e9057dca40abb37f4536
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Dec 8 17:11:02 2020 -0500
+
+    Created buildpile files
+
+commit 9da7ba70f73f05e90ee6beb13a323a96bdee2d52
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Dec 8 16:47:30 2020 -0500
+
+    changes the way we read in a psq command
+
+commit 8a2503e409a0b15e94f2fa2dc750cd5f5301ac0f
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Dec 8 15:53:46 2020 -0500
+
+    Changes the way we are reading in the move
+
+commit 1e4464a48774f456761974257ba9e4ee429cda73
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Dec 8 12:27:07 2020 -0500
+
+    made so that move must have spaces in it
+
+commit 9dfac9b6f1fd07ee08c93047f9cb501586229c69
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Dec 8 08:39:10 2020 -0500
+
+    Created folder for txt files. Also added shuffled cards on reading save state if shuffle has been set to true
+
+commit 06aa0cd8bdf26bccf2b7518312c59c09a456bf32
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 19:24:24 2020 -0500
+
+    Made sure to shuffle before save if it is supposed to be shuffled
+
+commit 5e387c6b91ad350b301cda9cc0dcb3656418d554
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 16:51:26 2020 -0500
+
+    Fixed save error
+
+commit 3cf77f6f8967478172c5f0e9442b61f98e20dc04
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 16:16:13 2020 -0500
+
+    Fixed adding order of old build to draw pile
+
+commit e738dc9b7f8a7e6641b5eabc424f3c2a7ba6aed3
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 15:00:22 2020 -0500
+
+    Fixed all syntax issues on submission
+
+commit 3406a8ad72f300b425c091d880713395af196608
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 14:11:14 2020 -0500
+
+    Ran all sample cases and they all worked
+
+commit 0f9025c4e614d4c386fd61134f0019fb2a3fb9a7
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 14:01:58 2020 -0500
+
+    Made sure to add old builds back to save file
+
+commit f22b3e81a42e0e2fdb6f6861b0be4acff6209974
+Merge: 82c9044 f96fe2c
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 13:47:03 2020 -0500
+
+    Added a few test files
+
+commit 82c9044d49e86d948931a0b97085369030fbe685
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 13:44:52 2020 -0500
+
+    Created some test files
+
+commit f96fe2c1e5b7e105b5ecee37782c6af9c7bb3fb6
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Mon Dec 7 13:20:30 2020 -0500
+
+    changed stock deal and print statements
+
+commit 1bbf0c794d5785270a78d59bcac3523de6150e6c
+Merge: f3368bb 62b8cdc
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 12:46:15 2020 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2020-fall-final-cwilhel8-ddang8-unwosu6
+
+commit f3368bb635567f4691bc9ef8fca0b1e1b6965fc2
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 12:45:31 2020 -0500
+
+    Added return for one case in main.cpp
+
+commit 62b8cdcf67ea998459b9058792e78a7ee9776786
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Mon Dec 7 10:05:43 2020 -0500
+
+    added comments for player class
+
+commit fb85ed287533c6d7a23cf516b2b120bc55b397b9
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 08:58:13 2020 -0500
+
+    Added function comments to FaceUpPile.h and Hand.h
+
+commit dcbdf39a5e4294b517f1caaba4a24a0a90817171
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Dec 7 08:43:40 2020 -0500
+
+    Fixed prints after the play save or quit prompty for invalid commands
+
+commit 345e8d5d62c333e391d04f3a7fb03dad13059896
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Sun Dec 6 15:03:53 2020 -0500
+
+    adding function headers
+
+commit a2abf51f0f2f18b262b4a6da43bc523abd417c12
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 14:57:24 2020 -0500
+
+    Set time seed for rand
+
+commit 17271c82847f5ec8affeeae2bb981eaf8d52f938
+Merge: c137bb4 7601dac
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 14:52:14 2020 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2020-fall-final-cwilhel8-ddang8-unwosu6
+
+commit c137bb4d003c3d567cea6361c9166fb2fba6c4f8
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 14:51:55 2020 -0500
+
+    break from save add
+
+commit 7601dac2218b711e565a20ff512a2985108ddf17
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Sun Dec 6 14:50:32 2020 -0500
+
+    added #include <cstdlib> to SkipBoGame.cpp
+
+commit ac4f6c0ba943b4568bc5744fd0fb2a10234c8b77
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 14:32:29 2020 -0500
+
+    Test case for empty drawpile
+
+commit 4f6de96c4cf4ec3430d7c0246e58089a14ca4692
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Sun Dec 6 14:29:36 2020 -0500
+
+    altered fillHand function in Player.cpp
+
+commit 0ef171a4ca189d7302841f85bf74b0af6d7b04e7
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 14:05:20 2020 -0500
+
+    Fixed fill hand to only fill maximum available, so it does not take from empty draw
+
+commit 777898308959e07106e1b93ef512b9eccb1b8858
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Sun Dec 6 13:46:23 2020 -0500
+
+    Added the missed moves to txt file
+
+commit ee1165cd6ec93d0ca66fe0a28b586dd4cd836cc5
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 13:37:52 2020 -0500
+
+    Fixed some printing errors
+
+commit fa9ff83b484553cbf7c8176cf840ecd68af9697e
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Sun Dec 6 13:34:10 2020 -0500
+
+    fixed how state is taken in in SkipBoGame.cpp
+
+commit 2e624a93a306624f86b7755fc23a4d7e41365450
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 13:25:40 2020 -0500
+
+    Fixed the printing errors on a double play and buildPlay function with Ud and Derek on call
+
+commit 1e5e0aec93f8b15ec22c94e1f0f5117e75e223a6
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Sun Dec 6 13:05:37 2020 -0500
+
+    moved where the build piles are emptied from Player.cpp to SkipBoGame.cpp
+
+commit d39143a52a7865595d71b56255bb8a7ad3a010bf
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Sun Dec 6 12:43:49 2020 -0500
+
+    if build pile is full, empty it, added to Player.cpp playBuild function
+
+commit 78950f05f3caefde4e49df3d561e2d4f98653be8
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 12:39:11 2020 -0500
+
+    Fixed a few error cases with Ud and Derek on call
+
+commit fcdf01fcc3815b250578264e923719e3d46e9489
+Author: Derek <ddang8@jhu.edu>
+Date:   Sun Dec 6 11:52:17 2020 -0500
+
+     changes to skipbogame play state.
+
+commit 82f2cb96b33d706977a8cc16c5a50e7e115ba207
+Merge: d3c7871 7ea189f
+Author: Derek <ddang8@jhu.edu>
+Date:   Sun Dec 6 10:51:02 2020 -0500
+
+    commented out branch to resolve merge conflict
+
+commit d3c787187abb697f620fe9effa0d71aab36b3bbe
+Author: Derek <ddang8@jhu.edu>
+Date:   Sun Dec 6 09:10:59 2020 -0500
+
+    Made changes to how SkipBoGame handles the user input string stream.
+
+commit 7ea189fabe491f4e578f10c1c39d21e100613dcc
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 08:37:32 2020 -0500
+
+    Fixed some of the print statements and fixed the game over print so that it correctly formatted. Had a few improper prints in player and commented them out
+
+commit f3c79a83c252afab1915673102543cbcad9ad7cf
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Dec 6 08:24:26 2020 -0500
+
+    Fixed the changes to reading in move so that whitespaces would not cause the move to fail
+
+commit 873a536ef986cb3c5ed3fd39311db9a05480a1b2
+Author: Derek <ddang8@jhu.edu>
+Date:   Sun Dec 6 07:20:02 2020 -0500
+
+    Added game rule condition, players draw to five at the start of their turn. Removed RR drawing for hands at game start.
+
+commit 908110c9be655682d7d2577dd2adc5492525e1bb
+Author: Derek <ddang8@jhu.edu>
+Date:   Sun Dec 6 06:45:49 2020 -0500
+
+    Testing script added
+
+commit 23fff6d85cc59c70af6ea20430153ec356954ee4
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Sun Dec 6 01:14:05 2020 -0500
+
+    edit Makefile to remove swap files, changed how user input is read in SkipBoGame.cpp
+
+commit a804006e80430b3985a8c712f469b13cf404418e
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sat Dec 5 17:35:59 2020 -0500
+
+    Fixed error with adding card as the card being referenced would be deleted
+
+commit eeede9980a1e7b02535ed862752e3766615dc5e8
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sat Dec 5 17:14:01 2020 -0500
+
+    Added hand replacement function and added print statements for invalud move(still need to format better)
+
+commit abc4959400fb60e36ff701527d65ab65cfe05039
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Sat Dec 5 10:13:26 2020 -0500
+
+    added return after fail to open input file for ror saved game
+
+commit 12ef7d62a1fbb0b80a5e7f7eb19221125a2e8d4f
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sat Dec 5 10:11:52 2020 -0500
+
+    Fixed the double printing error, was printing a endline character before letters could be read in
+
+commit 9326ef0168ea0f9b6cd9a1131c6722ceaf7d21d7
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sat Dec 5 09:58:38 2020 -0500
+
+    Fixed issue with empty discard and build when reading in a file. Currently, the play game function prints the state twice, looking into it
+
+commit 9624b3ba43e25130d63fcfa4b2238f4fb7feec92
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Fri Dec 4 13:33:46 2020 -0500
+
+    Missed an aspect of main in last push. Updated errors.
+
+commit f6aacc9cc2cf27b8c0ac858347a3e005bf4caed9
+Merge: d6e4be5 0cbc05e
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Dec 4 13:30:48 2020 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2020-fall-final-cwilhel8-ddang8-unwosu6
+
+commit d6e4be5d3e1f9cfba4e1537b71d8f00b04bd5718
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Dec 4 13:29:56 2020 -0500
+
+    Fixed stock pile ordering and fixed infinite loop on invalid inputs
+
+commit 0cbc05ef9a1d58de14fd298aa7a6ba9c7ba4a412
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Thu Dec 3 17:11:22 2020 -0500
+
+    Slight changes to main, mostly variable fixes
+
+commit 57c684d1a794a879c1b51990f9d545d7a8470482
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Thu Dec 3 11:36:20 2020 -0500
+
+    Fixed more errors, the game will now run till completion, need to test more
+
+commit e204e50fc3da1e33813a8e67252bc71ce39280bf
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Thu Dec 3 11:05:12 2020 -0500
+
+    Fixed some seg.faults, but we have a lot of other problems to fix as well
+
+commit 58888baea41519c7591432a5f50cfb3472509fc4
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Dec 2 13:36:03 2020 -0500
+
+    Fixed a few compile errors
+
+commit 1778f1860499541a0d8ce837807e564276f8270c
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Wed Dec 2 13:20:39 2020 -0500
+
+    Classwork with Derek and Ud. Added save state and test cases in main.
+
+commit 387825e39595bc1df1405814532dd8becb4c29a2
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Tue Dec 1 20:05:07 2020 -0500
+
+    added draw condition to playgame
+
+commit c7f1b25591536ccfcb4a160eaa4993503a48e782
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Tue Dec 1 13:15:02 2020 -0500
+
+    Added some error cases and read in fro  argv into main
+
+commit 04a9c218cc7157b0e7798447d5ec5ae26f17a3e7
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Tue Dec 1 12:54:08 2020 -0500
+
+    Added a little bit to main.cpp
+
+commit a78a872fd8b1a9fb8018abc3d24d332452394eb6
+Merge: 2d7ed24 58244e4
+Author: Derek <ddang8@jhu.edu>
+Date:   Tue Dec 1 11:29:28 2020 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2020-fall-final-cwilhel8-ddang8-unwosu6
+    Added CPPFLAGS to Makefile
+
+commit 2d7ed243b85c08c0f61205145eb7a8b830c1fb5b
+Author: Derek <ddang8@jhu.edu>
+Date:   Tue Dec 1 11:28:27 2020 -0500
+
+    Added CPPFLAG to Makefile
+
+commit 22308b7c00f83b6a90459a0e0f8e1c9c24de3f03
+Author: Derek <ddang8@jhu.edu>
+Date:   Tue Dec 1 11:27:17 2020 -0500
+
+    Added CPPFLAG to Makefile
+
+commit 58244e4eb04eae39a13c0a318172b760ad500467
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Dec 1 11:24:24 2020 -0500
+
+    Fixed some minor compile errors
+
+commit f68d6a622e07978fe1090b82284252e7f3f999c2
+Author: Derek <ddang8@jhu.edu>
+Date:   Tue Dec 1 10:55:03 2020 -0500
+
+    Added '#include <iostream>' to Main.cpp
+
+commit 19e21b283dba8d82b890f13922b3ef31d6042fbc
+Author: Derek <ddang8@jhu.edu>
+Date:   Tue Dec 1 10:54:03 2020 -0500
+
+    Added '#include <iostream>' to Main.cpp
+
+commit 1ca7fad935362819b12d5557080a3f4c6f1c61b1
+Merge: 174a16e f368dc1
+Author: Derek <ddang8@jhu.edu>
+Date:   Tue Dec 1 10:47:38 2020 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2020-fall-final-cwilhel8-ddang8-unwosu6
+    Adding edited Makefile
+
+commit 174a16e2f3cf06452ad420f0df9a040592e6997d
+Author: Derek <ddang8@jhu.edu>
+Date:   Tue Dec 1 10:46:23 2020 -0500
+
+    Makefile edited
+
+commit f368dc13305e3687187c7107a4774e1be9a75dc6
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Tue Dec 1 10:19:39 2020 -0500
+
+    Added play case to skipbogame switch statement in play game function
+
+commit c2120d90926855f8d8c51c5660c4a6e92356a460
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Mon Nov 30 13:29:11 2020 -0500
+
+    Classwork from today, added readIn function for new game and began adding play function
+    
+    In class with Ud and Derek
+
+commit 6de6c093e8f09756027207c4ddfea525134981f6
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Nov 29 09:25:39 2020 -0500
+
+    added isvalid function to faceuppile and changed build pile in player functions to be a vector
+
+commit 444dfcc33898d9da98f56b96dbc4d1cdbe3e7db1
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Nov 29 08:58:45 2020 -0500
+
+    Fixed some compile errors in SkipBoGame, added a getRand function into DrawPile as well. Need to fix the undefined reference to toString, readIn, and display functions for Pile and Player. Also need to add destructors
+
+commit 0c32ca74f5ad5d0298263e17c250a031959c320e
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Sat Nov 28 17:42:03 2020 -0500
+
+    Add functions to player for playing a card.
+
+commit 40123a89f70183165701a6ad5bf69029b18b4a7c
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Sat Nov 28 14:49:19 2020 -0500
+
+    Added headers to pile and skipbogame
+
+commit 86e1066b2f0b1ef81395a9147ea00393df91a372
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Sat Nov 28 14:45:48 2020 -0500
+
+    Added SkipBoGame initialization for a saved file and read in for pile. Also added SkipBoGame.h
+    
+    Ud and I working on this together on Zoom.
+
+commit 2aa2727e0af3abda91aaf312676b5345c66034af
+Author: Chris Wilhelm <70656080+ChrisWilhelm@users.noreply.github.com>
+Date:   Sat Nov 28 11:07:02 2020 -0500
+
+    Update Main.cpp
+
+commit b9515dd8445dcad627b6ceb1805eb294eab4d887
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sat Nov 28 10:40:40 2020 -0500
+
+    Updated Hand and fixed player's calls on hand
+
+commit 01e5964faec14416ee57ef3785c44f563a25f76d
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sat Nov 28 10:15:55 2020 -0500
+
+    Fixed compile errors and began work on Hand class
+
+commit 70be810f803b51bef288e74fe9951f01ec350a57
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Sat Nov 28 04:50:31 2020 -0500
+
+    fixed DrawPile, altered Pile::popCard
+
+commit 0e6af0d2cf842bb1f210859c89c112cda0e57a8e
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Nov 27 18:55:12 2020 -0500
+
+    Added player functions and popCard to pile
+
+commit 14c7b035b7bdc5d65915de304610afa378440971
+Author: Udochukwu Nwosu <unwosu6@jhu.edu>
+Date:   Wed Nov 25 15:16:07 2020 -0500
+
+    added DrawPile class
+
+commit e892484119f7192dafad25b0f08599c596c3de19
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Nov 24 15:03:42 2020 -0500
+
+    Fixed addCard in FaceUpPile to account for to string. Also added case for skip bo card
+
+commit 2a20c6fd84f4343d4d484e2f27452d56ffa3abf5
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Nov 24 08:49:36 2020 -0500
+
+    Wrote function definitions in FaceUpPile.cpp, need to test still and possibly add more
+
+commit 932f48f1c747a7802c7856d2724b7fe7fa0d3b64
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Nov 24 08:29:24 2020 -0500
+
+    Wrote some function calls in header file for FaceUpPile.h
+
+commit 84460adbecbd1bc59aa84ac4d47a33c04cc00ad5
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Nov 23 18:26:24 2020 -0500
+
+    Created FaceUpPile.h
+
+commit 18b35b180b8e830d248eee9e153cfcefca1968b6
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Nov 23 18:12:02 2020 -0500
+
+    Added a little to main about checking for args
+
+commit 0eb10ae059f2065c339dcebced94e578cbcd9be3
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Nov 20 17:00:41 2020 -0500
+
+    Created main.cpp
+
+commit c1a67fd287cf0601b629c8c3b4e7b4941cc8fb09
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Thu Nov 19 08:19:52 2020 -0500
+
+    Transfered all starter files to repo
